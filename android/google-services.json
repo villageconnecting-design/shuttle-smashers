@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292670387570",
+    "project_id": "shuttle-smashers-66023",
+    "storage_bucket": "shuttle-smashers-66023.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292670387570:android:0d4fe73c6a6f52625cd9eb",
+        "android_client_info": {
+          "package_name": "com.shuttlesmashers.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnUhFqJyIvZWTbtHUCttMP5OzWyB1o1Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

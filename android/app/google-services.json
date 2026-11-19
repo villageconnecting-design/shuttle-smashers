@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "292670387570",
+    "project_id": "shuttle-smashers-66023",
+    "storage_bucket": "shuttle-smashers-66023.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292670387570:android:0d4fe73c6a6f52625cd9eb",
+        "android_client_info": {
+          "package_name": "com.shuttlesmashers.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292670387570-88ccbkung4qgutom9kmsnj46duajc15v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shuttlesmashers.app",
+            "certificate_hash": "16bb5ab4d81aa4af46bbc6f69769ea27062a1588"
+          }
+        },
+        {
+          "client_id": "292670387570-9ud09kdkmmm1s6q0ukgi3h8fbnhr15k1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnUhFqJyIvZWTbtHUCttMP5OzWyB1o1Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292670387570-9ud09kdkmmm1s6q0ukgi3h8fbnhr15k1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "292670387570-8u2s03gi2bimr10uu549h0srhqh9jbhl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shuttlesmashers.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
